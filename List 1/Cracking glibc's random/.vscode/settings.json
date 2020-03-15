@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "stdlib.h": "c",
+        "csprng.h": "c",
+        "randombytes.h": "c",
+        "stdio.h": "c"
+    }
+}
