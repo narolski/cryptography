@@ -5,7 +5,7 @@
 #define MAX 1000
 #define seed 1
 
-long getExpectedRandomOutput() 
+unsigned int getExpectedRandomOutput() 
 {
     int r[MAX];
     int i;
