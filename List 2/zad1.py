@@ -8,7 +8,6 @@ AES_MODES = {
     "CBC": AES.MODE_CBC,
     "CFB": AES.MODE_CFB,
     "ECB": AES.MODE_ECB,
-    "CFB": AES.MODE_CFB,
     "OPENPGP": AES.MODE_OPENPGP,
     "PGP": AES.MODE_PGP
 }
